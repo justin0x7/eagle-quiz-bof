@@ -1,1 +1,1 @@
-export const API_URL = process.env.REACT_APP_API_URL || "https://survey.eagle.productions";
+export const API_URL = process.env.REACT_APP_API_URL || "https://test.survey.eagle.productions";
